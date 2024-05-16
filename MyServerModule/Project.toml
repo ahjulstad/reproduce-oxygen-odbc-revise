@@ -1,0 +1,17 @@
+name = "MyServerModule"
+uuid = "b1186a07-f832-42c6-b7a2-d4dff9ff84b8"
+authors = ["Åsmund Hjulstad <ahju@equinor.com>"]
+version = "0.1.0"
+
+[deps]
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DotEnv = "4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
+ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
+Oxygen = "df9a0d86-3283-4920-82dc-4555fc0d1d8b"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+SQLStrings = "af517c2e-c243-48fa-aab8-efac3db270f5"
+TypedTables = "9d95f2ec-7b3d-5a63-8d20-e2491e220bb9"
